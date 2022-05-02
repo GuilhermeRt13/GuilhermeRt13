@@ -28,3 +28,5 @@
   <a href = "mailto:guilhermejs2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/guilherme-jos%C3%A9-6830651b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  
+  ![Snake animation](https://github.com/GuilhermeRt13/GuilhermeRt13/blob/output/github-contribution-grid-snake.svg)
