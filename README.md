@@ -1,7 +1,7 @@
 ### Prazer!! Eu sou Guilherme Jose
 
 
-- 📕 Cursando Analise e desenvolvimento de sistema
+- 📕 Formado em Analise e desenvolvimento de sistema
 - 🔭 Atualmente estudo e trabalho com front-end
 - 📫 Contrate-me por email: guilhermejs2002@gmail.com
 - 😄 Pronome: Ele/Dele
