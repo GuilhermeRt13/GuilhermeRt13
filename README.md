@@ -4,7 +4,6 @@
 - 📕 Formado em Analise e desenvolvimento de sistema
 - 🔭 Atualmente estudo e trabalho com front-end
 - 📫 Contrate-me por email: guilhermejs2002@gmail.com
-- 
 ##
 
 <div align="center">
