@@ -4,8 +4,7 @@
 - 📕 Formado em Analise e desenvolvimento de sistema
 - 🔭 Atualmente estudo e trabalho com front-end
 - 📫 Contrate-me por email: guilhermejs2002@gmail.com
-- 😄 Pronome: Ele/Dele
-
+- 
 ##
 
 <div align="center">
@@ -18,6 +17,8 @@
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Gui-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Gui-Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
   
   ##
@@ -27,6 +28,7 @@
  <a href=https://discord.gg/FRQUDGer" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guilhermejs2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/guilherme-jos%C3%A9-6830651b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a  ></a>
   </div>
   
   
