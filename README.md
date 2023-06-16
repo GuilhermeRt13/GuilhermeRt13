@@ -1,4 +1,4 @@
-### Hello !! I'm Guilherme Jose
+### Olá !! Eu sou Guilherme Jose
 
 
 - 📕 Formado em Analise e desenvolvimento de sistema
