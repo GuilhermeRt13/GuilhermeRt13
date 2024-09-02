@@ -1,9 +1,5 @@
-### Olá !! Eu sou Guilherme Jose
-
-
-- 📕 Formado em Analise e desenvolvimento de sistema
-- 🔭 Atualmente estudo e trabalho com front-end
-- 📫 Contrate-me por email: guilhermejs2002@gmail.com
+### Olá, eu sou Guilherme! 👋
+Sou um desenvolvedor web com vasta experiência na criação de soluções digitais que aliam eficiência e design. Minha expertise inclui HTML, CSS, JavaScript, PHP, e WordPress, entre outras tecnologias. Além de trabalhar em projetos desafiadores, também ministro aulas de desenvolvimento web, compartilhando conhecimento e ajudando novos desenvolvedores a se destacarem no mercado.
 ##
 
 <div align="center">
